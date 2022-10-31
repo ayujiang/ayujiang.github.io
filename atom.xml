@@ -3,11 +3,11 @@
   <title>澄心</title>
   
   <subtitle>澄心</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://ayujiang.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://ayujiang.github.io/"/>
   <updated>2022-10-14T08:50:43.913Z</updated>
-  <id>http://example.com/</id>
+  <id>https://ayujiang.github.io/</id>
   
   <author>
     <name>wangyj</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/10/14/hello-world/"/>
-    <id>http://example.com/2022/10/14/hello-world/</id>
+    <link href="https://ayujiang.github.io/2022/10/14/hello-world/"/>
+    <id>https://ayujiang.github.io/2022/10/14/hello-world/</id>
     <published>2022-10-14T08:50:43.913Z</published>
     <updated>2022-10-14T08:50:43.913Z</updated>
     
